@@ -6,8 +6,8 @@ import time as time
 import os
 from selenium.webdriver.support import expected_conditions as EC
 
-username = "nartilha"
-password = "24032513LeLe$"
+username = ""
+password = ""
 #WebDriverWait(browser, 30).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="accountStandalone"]/div/div/div[2]/div/div/div[1]/button'))).click()
 #abre a guia do login
 driver = webdriver.Chrome("chromedriver")
