@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 import time as time
 import os
 from selenium.webdriver.support import expected_conditions as EC
-username = "nartilha"
-password = "24032513NaNa$"
+username = ""
+password = ""
 chromedriver = "/Users/nartilha/Downloads/chromedriver_win32.zip/chromedriver"
 os.environ["webdriver.chrome.driver"] = chromedriver
 driver = webdriver.Chrome(chromedriver)
